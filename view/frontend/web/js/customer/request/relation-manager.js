@@ -5,6 +5,7 @@ define([
 ], function($, _, relationManager) {
 
     $.widget('aw.awRmaRelationManager', {
+        component: 'awRmaRelationManager', // Breeze fix: added component name
         options: {
             relationsData: [],
             fieldInputSelectorPatterns: ['[name="custom_fields[{custom_field_id}]"'],

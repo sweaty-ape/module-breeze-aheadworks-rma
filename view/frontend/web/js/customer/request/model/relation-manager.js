@@ -5,6 +5,7 @@ define([
     'use strict';
 
     return {
+        component: 'Aheadworks_Rma/js/customer/request/model/relation-manager', // Breeze fix: added component name
         fieldWrapperSelector: '',
 
         /**

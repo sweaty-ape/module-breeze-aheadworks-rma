@@ -24,6 +24,15 @@
               </item>
               <item name="awRmaOrderItemsMultipleField" xsi:type="array">
                 <item name="path" xsi:type="string">SweatyApe_BreezeAheadworksRma/js/customer/request/new/order-items-multiple-field</item>
+                <item name="import" xsi:type="array">
+                  <item name="Aheadworks_Rma/js/customer/request/model/relation-manager" xsi:type="string">SweatyApe_BreezeAheadworksRma/js/customer/request/model/relation-manager</item>
+                </item>
+              </item>
+              <item name="awRmaRelationManager" xsi:type="array">
+                <item name="path" xsi:type="string">SweatyApe_BreezeAheadworksRma/js/customer/request/relation-manager</item>
+                <item name="import" xsi:type="array">
+                  <item name="Aheadworks_Rma/js/customer/request/model/relation-manager" xsi:type="string">SweatyApe_BreezeAheadworksRma/js/customer/request/model/relation-manager</item>
+                </item>
               </item>
             </item>
           </item>
