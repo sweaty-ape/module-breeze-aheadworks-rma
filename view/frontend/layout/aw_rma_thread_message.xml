@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <body>
+        <referenceContainer name="breeze.container">
+            <block class="Swissup\Breeze\Block\HtmlTemplate" name="breeze.Aheadworks_Rma_form_element_uploader_v247_uploader" template="Aheadworks_Rma::form/element/uploader/v247/uploader.html"/>
+            <block class="Swissup\Breeze\Block\HtmlTemplate" name="breeze.Aheadworks_Rma_form_element_uploader_uploader" template="Aheadworks_Rma::form/element/uploader/uploader.html"/>
+            <block class="Swissup\Breeze\Block\HtmlTemplate" name="breeze.Aheadworks_Rma_form_element_uploader_preview" template="Aheadworks_Rma::form/element/uploader/preview.html"/>
+        </referenceContainer>
+    </body>
+</page>
